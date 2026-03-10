@@ -20,7 +20,7 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --bg: #0d0f14;
+    --bg: #fcfdff;
     --surface: #141720;
     --surface2: #1c2030;
     --border: #252a3a;
