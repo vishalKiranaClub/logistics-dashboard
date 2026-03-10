@@ -261,7 +261,7 @@ SELLERS = sorted([
 
 COURIERS = ["DelhiveryOne", "Ekart", "Shiprocket"]
 SR_COURIERS = ["Ekart_SR", "Delhivery_SR", "Xpressbees_SR", "DTDC_SR"]
-DB_PATH = "/home/claude/logistics_data.db"
+DB_PATH = "/tmp/logistics_data.db"
 
 # ─── Database ──────────────────────────────────────────────────────────────────
 def init_db():
