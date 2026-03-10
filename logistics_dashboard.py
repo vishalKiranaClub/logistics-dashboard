@@ -28,8 +28,8 @@ st.markdown("""
     --accent2: #f59e0b;
     --danger: #ef4444;
     --success: #22c55e;
-    --text: #e2e8f0;
-    --muted: #64748b;
+    --text: #ffffff;
+    --muted: #9ca3af;
     --mono: 'IBM Plex Mono', monospace;
     --sans: 'IBM Plex Sans', sans-serif;
 }
